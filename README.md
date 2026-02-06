@@ -46,8 +46,7 @@ react-dom: ^19.1.0
 
 - **dev**: `npm run dev`
 - **build**: `npm run build`
-- **lint**: `npm run lint`
-- **preview**: `npm run preview`
+
 
 
 ## 📁 Project Structure
@@ -76,7 +75,7 @@ react-dom: ^19.1.0
 
 ### Node.js/JavaScript Setup
 1. Install Node.js (v18+ recommended)
-2. Install dependencies: `npm install` or `yarn install`
+2. Install dependencies: `npm install` 
 3. Start development server: (Check scripts in `package.json`, e.g., `npm run dev`)
 
 
