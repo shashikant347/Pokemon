@@ -69,15 +69,5 @@ react-dom: ^19.1.0
 │   ├── index.css
 │   └── main.jsx
 └── vite.config.js
-```
-
-## 🛠️ Development Setup
-
-### Node.js/JavaScript Setup
-1. Install Node.js (v18+ recommended)
-2. Install dependencies: `npm install` 
-3. Start development server: (Check scripts in `package.json`, e.g., `npm run dev`)
-
-
 
 
